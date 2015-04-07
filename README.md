@@ -36,7 +36,7 @@ This work is published from:
 2. 使用該音效編輯軟體匯出編輯結果。
 
 ## 本目錄下的檔案與目錄說明<br />Description of files and directories under this directory
-### 〈鈴聲名稱(<ringtone name>〉/
+### 〈鈴聲名稱(&lt;ringtone name&gt;)〉/
 製作該鈴聲的工作目錄(working directory)
 
 ### [專案說明文件.md<br />README.md](README.md)
