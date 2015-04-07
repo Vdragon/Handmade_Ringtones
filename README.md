@@ -24,6 +24,9 @@ This work is published from:
   Taiwan</span>.
 </p>
 
+本專案於合理使用(fair use)下使用了其他智慧財產權人的智慧財產，使用這些內容前請務必確定您未侵害其權利。  
+This project uses other copyright owner's intellectual properties under fair use, only use these properties when you confirm not infringing their rights.
+
 ## 執行本軟體需要的軟體<br />Dependencies of running this software
 您需要安裝支援該鈴聲格式的多媒體播放器與其解碼器程式(decoder)來播放本軟體。
 
