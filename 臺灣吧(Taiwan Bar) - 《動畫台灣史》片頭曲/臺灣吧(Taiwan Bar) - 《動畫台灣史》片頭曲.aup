@@ -1,0 +1,538 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="臺灣吧(Taiwan Bar) - 《動畫台灣史》片頭曲_data" version="1.3.0" audacityversion="2.0.5" sel0="75.5420308865" sel1="85.1060098657" vpos="0" h="74.7836074243" zoom="147.3451252155" rate="44100.0">
+	<tags/>
+	<wavetrack name="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="22351872">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00008b8.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="0" aliaslen="262144" aliaschannel="0" min="-0.717804" max="0.768036" rms="0.163437"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e00009bb.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.569733" max="0.524292" rms="0.151323"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e00008cd.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.611725" max="0.578491" rms="0.1661"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0000379.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.6651" max="0.590515" rms="0.163881"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e00007e5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.643219" max="0.776428" rms="0.15769"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e00006f5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.700897" max="0.561584" rms="0.145431"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e00006e5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.574188" max="0.505035" rms="0.14167"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e00001bb.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.622223" max="0.622894" rms="0.126597"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0000523.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.767578" max="0.725983" rms="0.12358"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0000287.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.846802" max="0.723969" rms="0.170434"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0000243.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2621440" aliaslen="262144" aliaschannel="0" min="-0.721466" max="0.649689" rms="0.174409"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e000057e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2883584" aliaslen="262144" aliaschannel="0" min="-0.685425" max="0.64621" rms="0.158188"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e00002f2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3145728" aliaslen="262144" aliaschannel="0" min="-0.803101" max="0.788513" rms="0.175337"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e000014f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.811218" max="0.815521" rms="0.20169"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e00001ce.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3670016" aliaslen="262144" aliaschannel="0" min="-0.853027" max="0.880554" rms="0.205676"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e000002c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.66568" max="0.719238" rms="0.173481"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0000fef.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4194304" aliaslen="262144" aliaschannel="0" min="-0.879242" max="0.734955" rms="0.164108"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e00003ba.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.902679" max="0.804626" rms="0.204008"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e000045f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4718592" aliaslen="262144" aliaschannel="0" min="-0.781494" max="0.676453" rms="0.184708"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e000085e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.776337" max="0.698822" rms="0.181959"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0000c75.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="5242880" aliaslen="262144" aliaschannel="0" min="-0.80542" max="0.740112" rms="0.181473"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e00002a2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.626373" max="0.61911" rms="0.174161"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e00003fa.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="5767168" aliaslen="262144" aliaschannel="0" min="-0.789825" max="0.791748" rms="0.190309"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e0000e9e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.674103" max="0.686096" rms="0.181065"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e00005a6.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6291456" aliaslen="262144" aliaschannel="0" min="-0.694122" max="0.647614" rms="0.168146"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e00003ac.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.753967" max="0.671082" rms="0.176693"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e0000929.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6815744" aliaslen="262144" aliaschannel="0" min="-0.687195" max="0.727844" rms="0.175723"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e00005f6.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.674164" max="0.645599" rms="0.163778"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e000088e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.677338" max="0.740234" rms="0.170338"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e00008b9.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.73819" max="0.667145" rms="0.172512"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0000e36.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.796417" max="0.67923" rms="0.162674"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e00004e5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-0.788055" max="0.714294" rms="0.169193"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e00002cd.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8388608" aliaslen="262144" aliaschannel="0" min="-0.646057" max="0.598877" rms="0.178585"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e00006e2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.809967" max="0.701965" rms="0.159506"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e0000fd3.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8912896" aliaslen="262144" aliaschannel="0" min="-0.614563" max="0.609406" rms="0.15258"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0000370.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.664642" max="0.698517" rms="0.174626"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0000e95.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9437184" aliaslen="262144" aliaschannel="0" min="-0.674805" max="0.654022" rms="0.154928"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e0000fa3.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.674286" max="0.644653" rms="0.168537"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0000a72.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9961472" aliaslen="262144" aliaschannel="0" min="-0.670349" max="0.613586" rms="0.160041"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e0000bad.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="10223616" aliaslen="262144" aliaschannel="0" min="-0.693939" max="0.619934" rms="0.143435"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0000f66.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="10485760" aliaslen="262144" aliaschannel="0" min="-0.919586" max="0.809082" rms="0.182232"/>
+				</waveblock>
+				<waveblock start="10747904">
+					<pcmaliasblockfile summaryfile="e0000803.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="10747904" aliaslen="262144" aliaschannel="0" min="-0.856018" max="0.755524" rms="0.172138"/>
+				</waveblock>
+				<waveblock start="11010048">
+					<pcmaliasblockfile summaryfile="e0000884.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11010048" aliaslen="262144" aliaschannel="0" min="-0.660522" max="0.628265" rms="0.181335"/>
+				</waveblock>
+				<waveblock start="11272192">
+					<pcmaliasblockfile summaryfile="e00004ac.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11272192" aliaslen="262144" aliaschannel="0" min="-0.650635" max="0.631226" rms="0.173069"/>
+				</waveblock>
+				<waveblock start="11534336">
+					<pcmaliasblockfile summaryfile="e000053f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11534336" aliaslen="262144" aliaschannel="0" min="-0.617188" max="0.61731" rms="0.129504"/>
+				</waveblock>
+				<waveblock start="11796480">
+					<pcmaliasblockfile summaryfile="e0000b71.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11796480" aliaslen="262144" aliaschannel="0" min="-0.663879" max="0.672729" rms="0.15486"/>
+				</waveblock>
+				<waveblock start="12058624">
+					<pcmaliasblockfile summaryfile="e000064c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12058624" aliaslen="262144" aliaschannel="0" min="-0.714539" max="0.682159" rms="0.179875"/>
+				</waveblock>
+				<waveblock start="12320768">
+					<pcmaliasblockfile summaryfile="e000019b.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12320768" aliaslen="262144" aliaschannel="0" min="-0.802094" max="0.780945" rms="0.174672"/>
+				</waveblock>
+				<waveblock start="12582912">
+					<pcmaliasblockfile summaryfile="e00008f5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12582912" aliaslen="262144" aliaschannel="0" min="-0.677277" max="0.672363" rms="0.174616"/>
+				</waveblock>
+				<waveblock start="12845056">
+					<pcmaliasblockfile summaryfile="e0000046.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12845056" aliaslen="262144" aliaschannel="0" min="-0.709167" max="0.646271" rms="0.171995"/>
+				</waveblock>
+				<waveblock start="13107200">
+					<pcmaliasblockfile summaryfile="e00007be.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13107200" aliaslen="262144" aliaschannel="0" min="-0.758575" max="0.701141" rms="0.170956"/>
+				</waveblock>
+				<waveblock start="13369344">
+					<pcmaliasblockfile summaryfile="e0000511.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13369344" aliaslen="262144" aliaschannel="0" min="-0.757324" max="0.747772" rms="0.1835"/>
+				</waveblock>
+				<waveblock start="13631488">
+					<pcmaliasblockfile summaryfile="e00009ca.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13631488" aliaslen="262144" aliaschannel="0" min="-0.807587" max="0.81604" rms="0.174466"/>
+				</waveblock>
+				<waveblock start="13893632">
+					<pcmaliasblockfile summaryfile="e00008e2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13893632" aliaslen="262144" aliaschannel="0" min="-0.677307" max="0.673737" rms="0.176117"/>
+				</waveblock>
+				<waveblock start="14155776">
+					<pcmaliasblockfile summaryfile="e00002f5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14155776" aliaslen="262144" aliaschannel="0" min="-0.681366" max="0.636383" rms="0.17218"/>
+				</waveblock>
+				<waveblock start="14417920">
+					<pcmaliasblockfile summaryfile="e0000455.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14417920" aliaslen="262144" aliaschannel="0" min="-0.845123" max="0.751831" rms="0.183214"/>
+				</waveblock>
+				<waveblock start="14680064">
+					<pcmaliasblockfile summaryfile="e00003e9.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14680064" aliaslen="262144" aliaschannel="0" min="-0.763947" max="0.727844" rms="0.194512"/>
+				</waveblock>
+				<waveblock start="14942208">
+					<pcmaliasblockfile summaryfile="e0000aec.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14942208" aliaslen="262144" aliaschannel="0" min="-0.657928" max="0.608002" rms="0.18116"/>
+				</waveblock>
+				<waveblock start="15204352">
+					<pcmaliasblockfile summaryfile="e0000a52.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15204352" aliaslen="262144" aliaschannel="0" min="-0.617798" max="0.630035" rms="0.16839"/>
+				</waveblock>
+				<waveblock start="15466496">
+					<pcmaliasblockfile summaryfile="e0000d81.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15466496" aliaslen="262144" aliaschannel="0" min="-0.759613" max="0.717743" rms="0.185322"/>
+				</waveblock>
+				<waveblock start="15728640">
+					<pcmaliasblockfile summaryfile="e0000d00.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15728640" aliaslen="262144" aliaschannel="0" min="-0.84198" max="0.695282" rms="0.187243"/>
+				</waveblock>
+				<waveblock start="15990784">
+					<pcmaliasblockfile summaryfile="e0000307.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15990784" aliaslen="262144" aliaschannel="0" min="-0.763733" max="0.63739" rms="0.185048"/>
+				</waveblock>
+				<waveblock start="16252928">
+					<pcmaliasblockfile summaryfile="e0000948.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="16252928" aliaslen="262144" aliaschannel="0" min="-0.725647" max="0.660065" rms="0.18122"/>
+				</waveblock>
+				<waveblock start="16515072">
+					<pcmaliasblockfile summaryfile="e0000c67.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="16515072" aliaslen="262144" aliaschannel="0" min="-0.73996" max="0.676788" rms="0.206402"/>
+				</waveblock>
+				<waveblock start="16777216">
+					<pcmaliasblockfile summaryfile="e0000d20.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="16777216" aliaslen="262144" aliaschannel="0" min="-0.71521" max="0.67099" rms="0.205482"/>
+				</waveblock>
+				<waveblock start="17039360">
+					<pcmaliasblockfile summaryfile="e0000b07.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17039360" aliaslen="262144" aliaschannel="0" min="-0.736389" max="0.704102" rms="0.202702"/>
+				</waveblock>
+				<waveblock start="17301504">
+					<pcmaliasblockfile summaryfile="e0000064.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17301504" aliaslen="262144" aliaschannel="0" min="-0.690521" max="0.667725" rms="0.206095"/>
+				</waveblock>
+				<waveblock start="17563648">
+					<pcmaliasblockfile summaryfile="e0000a2f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17563648" aliaslen="262144" aliaschannel="0" min="-0.737427" max="0.699768" rms="0.183211"/>
+				</waveblock>
+				<waveblock start="17825792">
+					<pcmaliasblockfile summaryfile="e0000414.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17825792" aliaslen="262144" aliaschannel="0" min="-0.64209" max="0.65686" rms="0.180096"/>
+				</waveblock>
+				<waveblock start="18087936">
+					<pcmaliasblockfile summaryfile="e00007c2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18087936" aliaslen="262144" aliaschannel="0" min="-0.739777" max="0.68573" rms="0.201974"/>
+				</waveblock>
+				<waveblock start="18350080">
+					<pcmaliasblockfile summaryfile="e00002c1.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18350080" aliaslen="262144" aliaschannel="0" min="-0.746307" max="0.751251" rms="0.179073"/>
+				</waveblock>
+				<waveblock start="18612224">
+					<pcmaliasblockfile summaryfile="e0000c8d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18612224" aliaslen="262144" aliaschannel="0" min="-0.811829" max="0.704895" rms="0.201179"/>
+				</waveblock>
+				<waveblock start="18874368">
+					<pcmaliasblockfile summaryfile="e000050b.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18874368" aliaslen="262144" aliaschannel="0" min="-0.721405" max="0.721161" rms="0.213092"/>
+				</waveblock>
+				<waveblock start="19136512">
+					<pcmaliasblockfile summaryfile="e000096c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19136512" aliaslen="262144" aliaschannel="0" min="-0.698181" max="0.708893" rms="0.191586"/>
+				</waveblock>
+				<waveblock start="19398656">
+					<pcmaliasblockfile summaryfile="e000067d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19398656" aliaslen="262144" aliaschannel="0" min="-0.732239" max="0.69693" rms="0.212253"/>
+				</waveblock>
+				<waveblock start="19660800">
+					<pcmaliasblockfile summaryfile="e0000f6f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19660800" aliaslen="262144" aliaschannel="0" min="-0.756073" max="0.711395" rms="0.195895"/>
+				</waveblock>
+				<waveblock start="19922944">
+					<pcmaliasblockfile summaryfile="e00004f3.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19922944" aliaslen="262144" aliaschannel="0" min="-0.763336" max="0.819702" rms="0.124091"/>
+				</waveblock>
+				<waveblock start="20185088">
+					<pcmaliasblockfile summaryfile="e000015a.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20185088" aliaslen="262144" aliaschannel="0" min="-0.610535" max="0.719696" rms="0.105879"/>
+				</waveblock>
+				<waveblock start="20447232">
+					<pcmaliasblockfile summaryfile="e0000dc8.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20447232" aliaslen="262144" aliaschannel="0" min="-0.635132" max="0.839233" rms="0.119681"/>
+				</waveblock>
+				<waveblock start="20709376">
+					<pcmaliasblockfile summaryfile="e00005fe.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20709376" aliaslen="262144" aliaschannel="0" min="-0.729004" max="0.730286" rms="0.15521"/>
+				</waveblock>
+				<waveblock start="20971520">
+					<pcmaliasblockfile summaryfile="e0000e6d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20971520" aliaslen="262144" aliaschannel="0" min="-0.800446" max="0.939117" rms="0.219815"/>
+				</waveblock>
+				<waveblock start="21233664">
+					<pcmaliasblockfile summaryfile="e0000dd9.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="21233664" aliaslen="262144" aliaschannel="0" min="-0.679108" max="0.739044" rms="0.197283"/>
+				</waveblock>
+				<waveblock start="21495808">
+					<pcmaliasblockfile summaryfile="e0000ae4.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="21495808" aliaslen="262144" aliaschannel="0" min="-0.889923" max="0.725403" rms="0.097946"/>
+				</waveblock>
+				<waveblock start="21757952">
+					<pcmaliasblockfile summaryfile="e0000709.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="21757952" aliaslen="262144" aliaschannel="0" min="-0.69754" max="0.918549" rms="0.161708"/>
+				</waveblock>
+				<waveblock start="22020096">
+					<pcmaliasblockfile summaryfile="e0000a92.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="22020096" aliaslen="262144" aliaschannel="0" min="-0.001495" max="0.001831" rms="0.000119"/>
+				</waveblock>
+				<waveblock start="22282240">
+					<pcmaliasblockfile summaryfile="e0000720.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="22282240" aliaslen="69632" aliaschannel="0" min="-0.000244" max="0.000244" rms="0.000045"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="22351872">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00008fe.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="0" aliaslen="262144" aliaschannel="1" min="-0.73996" max="0.745789" rms="0.163658"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000932.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.569672" max="0.527893" rms="0.151309"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0000a77.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.611847" max="0.578522" rms="0.166101"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0000fa2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.657806" max="0.605591" rms="0.163267"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0000541.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.630615" max="0.723053" rms="0.15606"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e000065e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.602325" max="0.553864" rms="0.143694"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e00004a6.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.5383" max="0.5289" rms="0.139615"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0000b43.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.615204" max="0.682922" rms="0.125828"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0000147.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.766785" max="0.721191" rms="0.123266"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0000a8e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2359296" aliaslen="262144" aliaschannel="1" min="-0.83252" max="0.716187" rms="0.169752"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0000804.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2621440" aliaslen="262144" aliaschannel="1" min="-0.711182" max="0.665924" rms="0.178348"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0000e0c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="2883584" aliaslen="262144" aliaschannel="1" min="-0.729858" max="0.670532" rms="0.159156"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0000f63.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3145728" aliaslen="262144" aliaschannel="1" min="-0.81543" max="0.797302" rms="0.170115"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e0000c9d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3407872" aliaslen="262144" aliaschannel="1" min="-0.854187" max="0.813141" rms="0.188362"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e00006f0.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3670016" aliaslen="262144" aliaschannel="1" min="-0.837189" max="0.850433" rms="0.208332"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e0000a87.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="1" min="-0.703949" max="0.712494" rms="0.176493"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e00009e7.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4194304" aliaslen="262144" aliaschannel="1" min="-0.868164" max="0.747681" rms="0.165848"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e00008bc.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="1" min="-0.856934" max="0.83844" rms="0.205487"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e0000733.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4718592" aliaslen="262144" aliaschannel="1" min="-0.789612" max="0.671204" rms="0.185338"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0000c44.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="1" min="-0.766418" max="0.732361" rms="0.181194"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0000f54.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="5242880" aliaslen="262144" aliaschannel="1" min="-0.811188" max="0.695984" rms="0.181341"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e000035a.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="1" min="-0.631287" max="0.614136" rms="0.176347"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e000045e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="5767168" aliaslen="262144" aliaschannel="1" min="-0.749359" max="0.786285" rms="0.191295"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e000091d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="1" min="-0.705383" max="0.619995" rms="0.182854"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0000125.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6291456" aliaslen="262144" aliaschannel="1" min="-0.683502" max="0.691742" rms="0.170372"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e00007ea.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6553600" aliaslen="262144" aliaschannel="1" min="-0.746002" max="0.678131" rms="0.179392"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e000092a.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="6815744" aliaslen="262144" aliaschannel="1" min="-0.7005" max="0.688293" rms="0.178371"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0000c1c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="1" min="-0.70166" max="0.667572" rms="0.166128"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e0000745.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7340032" aliaslen="262144" aliaschannel="1" min="-0.712219" max="0.6362" rms="0.173301"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e0000a5d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7602176" aliaslen="262144" aliaschannel="1" min="-0.645081" max="0.631409" rms="0.173793"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e00008e5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="7864320" aliaslen="262144" aliaschannel="1" min="-0.790863" max="0.685791" rms="0.162784"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0000e25.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8126464" aliaslen="262144" aliaschannel="1" min="-0.712769" max="0.678009" rms="0.167829"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e000089f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8388608" aliaslen="262144" aliaschannel="1" min="-0.672882" max="0.639526" rms="0.179316"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e000072c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="1" min="-0.796082" max="0.679779" rms="0.161103"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e0000f40.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="8912896" aliaslen="262144" aliaschannel="1" min="-0.625549" max="0.646118" rms="0.153836"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0000c48.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9175040" aliaslen="262144" aliaschannel="1" min="-0.682343" max="0.666168" rms="0.175687"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0000613.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9437184" aliaslen="262144" aliaschannel="1" min="-0.673187" max="0.659302" rms="0.155084"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e000028f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9699328" aliaslen="262144" aliaschannel="1" min="-0.684052" max="0.64621" rms="0.169501"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0000e41.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="9961472" aliaslen="262144" aliaschannel="1" min="-0.697357" max="0.603973" rms="0.161032"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e0000018.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="10223616" aliaslen="262144" aliaschannel="1" min="-0.668732" max="0.608765" rms="0.143997"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<pcmaliasblockfile summaryfile="e0000f59.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="10485760" aliaslen="262144" aliaschannel="1" min="-0.829254" max="0.782318" rms="0.182915"/>
+				</waveblock>
+				<waveblock start="10747904">
+					<pcmaliasblockfile summaryfile="e0000890.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="10747904" aliaslen="262144" aliaschannel="1" min="-0.792633" max="0.80484" rms="0.168949"/>
+				</waveblock>
+				<waveblock start="11010048">
+					<pcmaliasblockfile summaryfile="e0000df9.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11010048" aliaslen="262144" aliaschannel="1" min="-0.658112" max="0.617615" rms="0.181812"/>
+				</waveblock>
+				<waveblock start="11272192">
+					<pcmaliasblockfile summaryfile="e0000113.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11272192" aliaslen="262144" aliaschannel="1" min="-0.675385" max="0.591309" rms="0.172904"/>
+				</waveblock>
+				<waveblock start="11534336">
+					<pcmaliasblockfile summaryfile="e0000d66.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11534336" aliaslen="262144" aliaschannel="1" min="-0.617249" max="0.617401" rms="0.129511"/>
+				</waveblock>
+				<waveblock start="11796480">
+					<pcmaliasblockfile summaryfile="e0000375.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="11796480" aliaslen="262144" aliaschannel="1" min="-0.659821" max="0.675598" rms="0.155484"/>
+				</waveblock>
+				<waveblock start="12058624">
+					<pcmaliasblockfile summaryfile="e0000056.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12058624" aliaslen="262144" aliaschannel="1" min="-0.840027" max="0.892395" rms="0.18574"/>
+				</waveblock>
+				<waveblock start="12320768">
+					<pcmaliasblockfile summaryfile="e0000919.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12320768" aliaslen="262144" aliaschannel="1" min="-0.814087" max="0.774384" rms="0.179786"/>
+				</waveblock>
+				<waveblock start="12582912">
+					<pcmaliasblockfile summaryfile="e000087d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12582912" aliaslen="262144" aliaschannel="1" min="-0.729401" max="0.722717" rms="0.182192"/>
+				</waveblock>
+				<waveblock start="12845056">
+					<pcmaliasblockfile summaryfile="e00008c8.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="12845056" aliaslen="262144" aliaschannel="1" min="-0.770477" max="0.720123" rms="0.179105"/>
+				</waveblock>
+				<waveblock start="13107200">
+					<pcmaliasblockfile summaryfile="e00003b7.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13107200" aliaslen="262144" aliaschannel="1" min="-0.782043" max="0.761292" rms="0.178297"/>
+				</waveblock>
+				<waveblock start="13369344">
+					<pcmaliasblockfile summaryfile="e0000653.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13369344" aliaslen="262144" aliaschannel="1" min="-0.742645" max="0.7901" rms="0.187698"/>
+				</waveblock>
+				<waveblock start="13631488">
+					<pcmaliasblockfile summaryfile="e00004b4.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13631488" aliaslen="262144" aliaschannel="1" min="-0.80722" max="0.817139" rms="0.178983"/>
+				</waveblock>
+				<waveblock start="13893632">
+					<pcmaliasblockfile summaryfile="e000043c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="13893632" aliaslen="262144" aliaschannel="1" min="-0.702667" max="0.723389" rms="0.182703"/>
+				</waveblock>
+				<waveblock start="14155776">
+					<pcmaliasblockfile summaryfile="e000048f.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14155776" aliaslen="262144" aliaschannel="1" min="-0.772308" max="0.668091" rms="0.177794"/>
+				</waveblock>
+				<waveblock start="14417920">
+					<pcmaliasblockfile summaryfile="e000025c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14417920" aliaslen="262144" aliaschannel="1" min="-0.833221" max="0.955688" rms="0.18753"/>
+				</waveblock>
+				<waveblock start="14680064">
+					<pcmaliasblockfile summaryfile="e0000c58.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14680064" aliaslen="262144" aliaschannel="1" min="-0.801117" max="0.751801" rms="0.197197"/>
+				</waveblock>
+				<waveblock start="14942208">
+					<pcmaliasblockfile summaryfile="e0000c6d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="14942208" aliaslen="262144" aliaschannel="1" min="-0.779877" max="0.65918" rms="0.186899"/>
+				</waveblock>
+				<waveblock start="15204352">
+					<pcmaliasblockfile summaryfile="e0000f99.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15204352" aliaslen="262144" aliaschannel="1" min="-0.678955" max="0.721008" rms="0.174179"/>
+				</waveblock>
+				<waveblock start="15466496">
+					<pcmaliasblockfile summaryfile="e0000f91.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15466496" aliaslen="262144" aliaschannel="1" min="-0.762634" max="0.749268" rms="0.191763"/>
+				</waveblock>
+				<waveblock start="15728640">
+					<pcmaliasblockfile summaryfile="e00008f2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15728640" aliaslen="262144" aliaschannel="1" min="-0.901978" max="0.863403" rms="0.194913"/>
+				</waveblock>
+				<waveblock start="15990784">
+					<pcmaliasblockfile summaryfile="e000034d.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="15990784" aliaslen="262144" aliaschannel="1" min="-0.764404" max="0.772217" rms="0.192492"/>
+				</waveblock>
+				<waveblock start="16252928">
+					<pcmaliasblockfile summaryfile="e00004a2.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="16252928" aliaslen="262144" aliaschannel="1" min="-0.768555" max="0.743958" rms="0.188455"/>
+				</waveblock>
+				<waveblock start="16515072">
+					<pcmaliasblockfile summaryfile="e000023e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="16515072" aliaslen="262144" aliaschannel="1" min="-0.739685" max="0.821808" rms="0.20754"/>
+				</waveblock>
+				<waveblock start="16777216">
+					<pcmaliasblockfile summaryfile="e0000cad.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="16777216" aliaslen="262144" aliaschannel="1" min="-0.715118" max="0.729187" rms="0.205818"/>
+				</waveblock>
+				<waveblock start="17039360">
+					<pcmaliasblockfile summaryfile="e00004de.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17039360" aliaslen="262144" aliaschannel="1" min="-0.765594" max="0.692627" rms="0.202903"/>
+				</waveblock>
+				<waveblock start="17301504">
+					<pcmaliasblockfile summaryfile="e0000b32.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17301504" aliaslen="262144" aliaschannel="1" min="-0.674438" max="0.63443" rms="0.204373"/>
+				</waveblock>
+				<waveblock start="17563648">
+					<pcmaliasblockfile summaryfile="e00004cc.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17563648" aliaslen="262144" aliaschannel="1" min="-0.736877" max="0.771851" rms="0.183489"/>
+				</waveblock>
+				<waveblock start="17825792">
+					<pcmaliasblockfile summaryfile="e0000e6c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="17825792" aliaslen="262144" aliaschannel="1" min="-0.654388" max="0.659149" rms="0.180585"/>
+				</waveblock>
+				<waveblock start="18087936">
+					<pcmaliasblockfile summaryfile="e00008a4.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18087936" aliaslen="262144" aliaschannel="1" min="-0.713379" max="0.690033" rms="0.202108"/>
+				</waveblock>
+				<waveblock start="18350080">
+					<pcmaliasblockfile summaryfile="e0000a1e.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18350080" aliaslen="262144" aliaschannel="1" min="-0.746338" max="0.751221" rms="0.179179"/>
+				</waveblock>
+				<waveblock start="18612224">
+					<pcmaliasblockfile summaryfile="e0000f1a.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18612224" aliaslen="262144" aliaschannel="1" min="-0.811859" max="0.704926" rms="0.201273"/>
+				</waveblock>
+				<waveblock start="18874368">
+					<pcmaliasblockfile summaryfile="e00008fb.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="18874368" aliaslen="262144" aliaschannel="1" min="-0.719757" max="0.710327" rms="0.213189"/>
+				</waveblock>
+				<waveblock start="19136512">
+					<pcmaliasblockfile summaryfile="e00004a5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19136512" aliaslen="262144" aliaschannel="1" min="-0.696136" max="0.704163" rms="0.191748"/>
+				</waveblock>
+				<waveblock start="19398656">
+					<pcmaliasblockfile summaryfile="e00001a6.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19398656" aliaslen="262144" aliaschannel="1" min="-0.732361" max="0.700043" rms="0.212513"/>
+				</waveblock>
+				<waveblock start="19660800">
+					<pcmaliasblockfile summaryfile="e0000c05.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19660800" aliaslen="262144" aliaschannel="1" min="-0.755981" max="0.746124" rms="0.196152"/>
+				</waveblock>
+				<waveblock start="19922944">
+					<pcmaliasblockfile summaryfile="e00000a8.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="19922944" aliaslen="262144" aliaschannel="1" min="-0.763153" max="0.819824" rms="0.124091"/>
+				</waveblock>
+				<waveblock start="20185088">
+					<pcmaliasblockfile summaryfile="e0000af7.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20185088" aliaslen="262144" aliaschannel="1" min="-0.610474" max="0.719727" rms="0.105879"/>
+				</waveblock>
+				<waveblock start="20447232">
+					<pcmaliasblockfile summaryfile="e0000e08.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20447232" aliaslen="262144" aliaschannel="1" min="-0.634888" max="0.839203" rms="0.119681"/>
+				</waveblock>
+				<waveblock start="20709376">
+					<pcmaliasblockfile summaryfile="e00002a7.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20709376" aliaslen="262144" aliaschannel="1" min="-0.729156" max="0.730316" rms="0.157303"/>
+				</waveblock>
+				<waveblock start="20971520">
+					<pcmaliasblockfile summaryfile="e0000617.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="20971520" aliaslen="262144" aliaschannel="1" min="-0.790375" max="0.935303" rms="0.219078"/>
+				</waveblock>
+				<waveblock start="21233664">
+					<pcmaliasblockfile summaryfile="e000089c.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="21233664" aliaslen="262144" aliaschannel="1" min="-0.639313" max="0.782257" rms="0.199358"/>
+				</waveblock>
+				<waveblock start="21495808">
+					<pcmaliasblockfile summaryfile="e00001ee.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="21495808" aliaslen="262144" aliaschannel="1" min="-0.897125" max="0.890625" rms="0.102087"/>
+				</waveblock>
+				<waveblock start="21757952">
+					<pcmaliasblockfile summaryfile="e00002a6.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="21757952" aliaslen="262144" aliaschannel="1" min="-0.714478" max="0.770721" rms="0.170158"/>
+				</waveblock>
+				<waveblock start="22020096">
+					<pcmaliasblockfile summaryfile="e0000cc5.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="22020096" aliaslen="262144" aliaschannel="1" min="-0.001312" max="0.001312" rms="0.000117"/>
+				</waveblock>
+				<waveblock start="22282240">
+					<pcmaliasblockfile summaryfile="e00001d1.auf" aliasfile="『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集-mYSSQJEoGRU.wav" aliasstart="22282240" aliaslen="69632" aliaschannel="1" min="-0.000275" max="0.000244" rms="0.000046"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="ringtone" numlabels="1" height="73" minimized="0" isSelected="1">
+		<label t="75.54203089" t1="85.10600987" title="ringtone"/>
+	</labeltrack>
+</project>
