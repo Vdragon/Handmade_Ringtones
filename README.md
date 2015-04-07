@@ -8,14 +8,14 @@
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
   <br>
-  <a rel="dct:publisher"
+  「<a rel="dct:publisher"
      href="Vdragon.Taiwan@gmail.com">
-    <span property="dct:title">Ｖ字龍(Vdragon)</span></a> 智慧財產擁有者在法律許可的範圍內，拋棄此著作依著作權法所享有之權利，包括所有相關與鄰接的法律權利，並宣告將該著作貢獻至公眾領域。
+    <span property="dct:title">Ｖ字龍(Vdragon)</span></a> 與其他本專案貢獻者」智慧財產擁有者在法律許可的範圍內，拋棄此著作依著作權法所享有之權利，包括所有相關與鄰接的法律權利，並宣告將該著作貢獻至公眾領域。
   <br>
   To the extent possible under law,
-  <a rel="dct:publisher"
+  "<a rel="dct:publisher"
      href="Vdragon.Taiwan@gmail.com">
-    <span property="dct:title">Ｖ字龍(Vdragon)</span></a>
+    <span property="dct:title">Ｖ字龍(Vdragon)</span></a> and other contributers of this project"
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">自己的鈴聲自己作(Handmade Ringtones)</span>.
 This work is published from:
