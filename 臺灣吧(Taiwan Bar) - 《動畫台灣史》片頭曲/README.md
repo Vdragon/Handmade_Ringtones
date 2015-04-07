@@ -8,7 +8,7 @@
 
 根據作品的說明文字，本擷取片段應為 DJ Hauer 創作之 Big Fat Guitar
 
-## 原始作品智慧財產權人<br />Source work copyright owner
+## 來源作品智慧財產權人<br />Source work copyright owner
 * [臺灣吧(Taiwan Bar Studio)](http://taiwanbar.cc/) ([Facebook](https://www.facebook.com/taiwanbarstudio)) ([Youtube 頻道](https://youtube.com/channel/UCRNsHFT7BFoAPBcuAa5sgEQ)) &lt;<taiwanbarstudio@gmail.com>&gt;
 	* 製作人：DJ Hauer
 	* 劇本、主持人：林辰Buchi
