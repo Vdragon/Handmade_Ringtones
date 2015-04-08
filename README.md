@@ -10,7 +10,7 @@
   <br>
   「<a rel="dct:publisher"
      href="mailto:Vdragon.Taiwan@gmail.com">
-    <span property="dct:title">Ｖ字龍(Vdragon)</span></a> 與其他本專案貢獻者」智慧財產擁有者在法律許可的範圍內，拋棄此著作依著作權法所享有之權利，包括所有相關與鄰接的法律權利，並宣告將該著作貢獻至公眾領域。
+    <span property="dct:title">Ｖ字龍(Vdragon)</span></a> 與其他本專案貢獻者」智慧財產擁有者在法律許可的範圍內，拋棄此著作依著作權法所享有之權利，包括所有相關與鄰接的法律權利，並宣告將該著作貢獻至公眾領域。本作品發表於：台灣。
   <br>
   To the extent possible under law,
   "<a rel="dct:publisher"
