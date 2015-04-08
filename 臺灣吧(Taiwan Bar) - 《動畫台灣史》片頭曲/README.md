@@ -20,6 +20,9 @@
 * 2014 Taiwan Bar All Rights Reserved
 * [標準 YouTube 授權](https://www.youtube.com/t/terms)
 
+## 釋出鈴聲<br />Released ringtones
+* [Release 臺灣吧(Taiwan Bar) - 《動畫台灣史》片頭曲鈴聲第 1 版 · Vdragon/Handmade_Ringtones](https://github.com/Vdragon/Handmade_Ringtones/releases/tag/Release-2015-04-08)
+
 ## 本目錄下的項目說明<br />Description of the items under this directory
 ### [目錄說明文件.md<br />README.md](README.md)
 本目錄的說明文件
