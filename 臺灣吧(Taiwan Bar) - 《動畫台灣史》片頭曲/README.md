@@ -16,6 +16,10 @@
 	* 動畫設計：jiajiach.
 	* 音樂製作：DJ Hauer
 
+## 來源作品授權條款<br />Source work license
+* 2014 Taiwan Bar All Rights Reserved
+* [標準 YouTube 授權](https://www.youtube.com/t/terms)
+
 ## 本目錄下的項目說明<br />Description of the items under this directory
 ### [目錄說明文件.md<br />README.md](README.md)
 本目錄的說明文件
