@@ -6,10 +6,15 @@
 [Scheming Weasel (faster version)](http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100085) (via [『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集 - YouTube](https://www.youtube.com/watch?v=mYSSQJEoGRU))
 
 ## 來源作品智慧財產權人<br />Source work copyright owner
+`````
 Kevin MacLeod (<http://incompetech.com>)
+Licensed under Creative Commons: By Attribution 3.0  
+<http://creativecommons.org/licenses/by/3.0/>
+`````
+※遵循智慧財產權人標註要求
 
 ## 來源作品授權條款<br />Source work license
-Licensed under Creative Commons: By Attribution 3.0  
+Creative Commons: By Attribution 3.0  
 <http://creativecommons.org/licenses/by/3.0/>
 
 ## 釋出鈴聲<br />Released ringtones
