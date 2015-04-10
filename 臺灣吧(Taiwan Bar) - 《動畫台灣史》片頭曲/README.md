@@ -6,7 +6,7 @@
 ## 來源作品<br />Source work
 [『超級民主的臺灣騙你的啦。』臺灣吧-Taiwan Bar 第6集 - YouTube](https://www.youtube.com/watch?v=mYSSQJEoGRU)
 
-根據作品的說明文字，本擷取片段應為 DJ Hauer 創作之 Big Fat Guitar
+目前未知該段音樂屬於哪個創作
 
 ## 來源作品智慧財產權人<br />Source work copyright owner
 * [臺灣吧(Taiwan Bar Studio)](http://taiwanbar.cc/) ([Facebook](https://www.facebook.com/taiwanbarstudio)) ([Youtube 頻道](https://youtube.com/channel/UCRNsHFT7BFoAPBcuAa5sgEQ)) &lt;<taiwanbarstudio@gmail.com>&gt;
